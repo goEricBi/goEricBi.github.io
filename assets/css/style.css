@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b;
+  background: #11274e;
   background-size: cover;
   left: 0;
   right: 0;
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background: #0f4564;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
@@ -482,7 +482,7 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #09203a;
+  background: #0f4564;
   transition: ease-in-out 0.3s;
 }
 
@@ -503,7 +503,7 @@ section .container {
 }
 
 .interests .icon-box:hover {
-  background: #042b56eb;
+  background: #898a8beb;
 }
 
 /*--------------------------------------------------------------
@@ -655,7 +655,7 @@ section .container {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  background: #09203a;
+  background: #0f4564;
   padding: 40px 40px;
   transition: all ease-in-out 0.3s;
   margin: 10px
@@ -710,7 +710,7 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #042e5f;
+  background: #898a8beb;
   border-color: #1c7d32;
 }
 
@@ -894,7 +894,7 @@ section .container {
   color: #444444;
   padding: 20px;
   width: 100%;
-  background: #09203a;
+  background: #0f4564;
 }
 
 .contact .info-box i.bx {
